@@ -55,6 +55,7 @@ Estructura final del proyecto:
         ├── style.css
         ├── script.js
         └── README.md
+        └──coto.jpg
 Implementacion en HTML:
 
 Los nuevos archivos se enlazaron dentro del documento index.html de la siguiente forma:
