@@ -83,3 +83,10 @@ Ejemplo en el codigo
 4. Interactividad agregada con JavaScript
 
 El archivo script.js incorpora dos acciones básicas:
+
+
+
+Capturas de pantalla del proyecto final
+<img width="1104" height="1035" alt="image" src="https://github.com/user-attachments/assets/1153ef07-1236-4b1d-a6de-432527ac7250" />
+
+
