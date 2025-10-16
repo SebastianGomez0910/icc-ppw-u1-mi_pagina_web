@@ -61,6 +61,8 @@ Los nuevos archivos se enlazaron dentro del documento index.html de la siguiente
 
       En el < head> (para el CSS):
       <link rel="stylesheet" href="style.css">
+      Antes de cerrar el <body> (para el JavaScript):
+      <script src="script.js"></script>
 
 3. Estilos aplicados con CSS
       |Elemento	|Estilo implementado	|Descripción|
