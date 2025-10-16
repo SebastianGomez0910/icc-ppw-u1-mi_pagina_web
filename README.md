@@ -6,7 +6,7 @@ Asignatura: Programación y Plataformas Web
 
 Unidad: 1.2 – Estándares Web
 
-Estudiante: Sebastián Gómez Repositorio:
+Estudiante: Sebastián Gómez Repositorio: https://github.com/SebastianGomez0910/icc-ppw-u1-mi_pagina_web/tree/main
 
 Página desplegada (GitHub Pages): https://sebastiangomez0910.github.io/icc-ppw-u1-mi_pagina_web/ 
 
@@ -90,5 +90,8 @@ El archivo script.js incorpora dos acciones básicas:
 
 Capturas de pantalla del proyecto final
 <img width="1104" height="1035" alt="image" src="https://github.com/user-attachments/assets/1153ef07-1236-4b1d-a6de-432527ac7250" />
+
+<img width="1499" height="1038" alt="image" src="https://github.com/user-attachments/assets/be36be22-7438-4bff-b7cf-b8a969ed1c8a" />
+
 
 
